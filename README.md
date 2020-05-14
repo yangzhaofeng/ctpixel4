@@ -13,4 +13,6 @@ to enable VoLTE.
 
 You can view the source at <https://github.com/yangzhaofeng/ctpixel4>.
 
+Credit: COOL@gfan
+
 ## Changelog
